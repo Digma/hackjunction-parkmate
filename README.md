@@ -16,7 +16,7 @@ Finding an empty parking space can be hard!
 ### Free Parking Spaces Detector with Open API
 Use CCTV live stream & apply modern Deep Learning techniques to determine which parking spots are free/occupied.
 
-![ParkMate Detector in Action](https://lh3.googleusercontent.com/5llAfXijTTv307ig66-x9Lt4YGm-cwK23gDww_0N6zU8pJ1bNY2TCy0nC0uMzUfoZSzHRKfRkQPYdpbeJkQV=w2880-h1480-rw)
+![ParkMate Detector in Action](https://drive.google.com/uc?export=download&id=1zu4DEbCUbvVJ3FxSaD-64Lt26M_CW-Ri "Parking Detection Running Live")
 
 ### Seamless Parking Navigation Mobile App
 Imagine mobile navigation app that takes care of guiding you to the nearest free spot!
